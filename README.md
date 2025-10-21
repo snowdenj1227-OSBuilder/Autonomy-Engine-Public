@@ -93,7 +93,7 @@ The production code is **private**. We offer three options:
 2. **Sandbox trial** (Verified Execution Environment)  
 3. **Commercial license / enterprise deployment**
 
-→ Email **operator@autonomyengine.io** with subject **“AE Access Request”**.  
+→ Email **operator@autonomyengine.net** with subject **“AE Access Request”**.  
 Please include your use case, team size, and compliance needs.
 
 ---
@@ -120,7 +120,7 @@ Use of AE trademarks requires written permission.
 ## Press & Speaking
 
 One‑pager & press kit: **[`/docs/press.md`](docs/press.md)**  
-Contact: **press@autonomyengine.io**
+Contact: **press@autonomyengine.net**
 
 ---
 
