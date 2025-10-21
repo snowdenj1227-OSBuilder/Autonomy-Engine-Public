@@ -5,4 +5,4 @@ We are committed to a respectful, high‑signal community. By participating, you
 - Protect user privacy and data sovereignty.
 - Avoid deceptive claims and undisclosed conflicts.
 
-Reports: conduct@autonomyengine.io
+Reports: conduct@autonomyengine.net
