@@ -6,7 +6,7 @@
 [![Ethics](https://img.shields.io/badge/ethics-verifiable-blue)](#)
 [![Security](https://img.shields.io/badge/security-LSD%20%7C%20ZKE%20%7C%20IAEL-0A84FF)](#)
 [![License](https://img.shields.io/badge/license-proprietary-informational)](#)
-[![Contact](https://img.shields.io/badge/contact-operator%40autonomyengine.io-black)](#)
+[![Contact](https://img.shields.io/badge/contact-operator%40autonomyengine.net-black)](#)
 
 ---
 
