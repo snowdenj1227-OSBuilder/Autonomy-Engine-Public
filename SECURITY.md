@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Reporting a Vulnerability
-Email security@autonomyengine.io with a clear description and reproduction steps.
+Email security@autonomyengine.net with a clear description and reproduction steps.
 
 ## Scope
 - Public docs and any public demo endpoints explicitly listed by AE
